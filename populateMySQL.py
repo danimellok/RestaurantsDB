@@ -12,10 +12,10 @@ try:
     # Connect to MySQL database
     conn = mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="mistoquente",
+        user="",
+        password="",
         auth_plugin='mysql_native_password',
-        database="RestaurantsDB"
+        database=""
     )
     cursor = conn.cursor()
 
