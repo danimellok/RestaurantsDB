@@ -8,8 +8,8 @@ import plotly.express as px
 DATABASE_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'mistoquente',
-    'database': 'RestaurantsDB'
+    'password': '',
+    'database': ''
 }
 
 
