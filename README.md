@@ -2,7 +2,7 @@ CPSC 408 - Final Project
 Daniel Mello
 
 *references in the bottom of the README
-
+*For security reasons, the user and password for the connection to MySQL is removed. The user will have to provide its own.
 # Restaurant Management System
 
 ## Overview
