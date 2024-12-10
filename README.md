@@ -3,6 +3,8 @@ Daniel Mello
 
 *references in the bottom of the README
 *For security reasons, the user and password for the connection to MySQL is removed. The user will have to provide its own.
+*Github link: https://github.com/danimellok/RestaurantsDB
+
 # Restaurant Management System
 
 ## Overview
